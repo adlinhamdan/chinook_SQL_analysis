@@ -3,8 +3,8 @@ This notebook demonstrates end-to-end SQL analytics on the classic Chinook datab
 
 Query highlights (examples)
 
-q3: All tracks released by Queen (via subquery on artist → albums → tracks).
-q6: Top 5 longest Queen tracks (ORDER BY Milliseconds DESC).
+q3: All tracks released by Queen (via subquery on artist → albums → tracks). <br>
+q6: Top 5 longest Queen tracks (ORDER BY Milliseconds DESC). <br>
 q8: Human-readable track listing with DurationMinutes and FileSize (MB).
 q15: Customer names joined with their invoice totals.
 q17/q20: Invoice details (global vs. USA) for Queen purchases.
