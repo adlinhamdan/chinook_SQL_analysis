@@ -1,4 +1,4 @@
-This notebook demonstrates end-to-end SQL analytics on the classic Chinook database using Python (pandas + SQLAlchemy) with a MySQL backend. It connects to MySQL, runs 35+ queries (joins, subqueries, window functions, rankings, aggregates), and saves results for autograding/inspection.
+This notebook demonstrates end-to-end SQL analytics on the classic Chinook database using Python (pandas + SQLAlchemy) with a MySQL backend. It connects to MySQL, runs 35+ queries (joins, subqueries, window functions, rankings, aggregates).
 
 
 Query highlights (examples)
